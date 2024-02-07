@@ -1,16 +1,34 @@
-# seven_project
+# About This Project
 
-A new Flutter project.
+This 7 challenge for myself to implementation my study about widget in flutter.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+- Project 1
+  ![App Screenshot](https://i.ibb.co/0MZYtrq/project1.png)
 
-A few resources to get you started if this is your first Flutter project:
+- Project 2
+  ![App Screenshot](https://i.ibb.co/pvWstXh/project2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Project 3
+  ![App Screenshot](https://i.ibb.co/JQSGv6H/project3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Project 4
+  ![App Screenshot](https://i.ibb.co/FX0vDmb/project4.png)
+
+- Project 5
+  ![App Screenshot](https://i.ibb.co/MgcHPbJ/project5.png)
+
+- Project 6
+  ![App Screenshot](https://i.ibb.co/VpQpcSL/project6.png)
+
+- Project 7
+  ![App Screenshot](https://i.ibb.co/8gtGjr7/project7.png)
+
+## Usage
+
+Change home: in main.dart to view other page.
+
+## Closing
+
+Thanks to BWA For UI Design - [UI DESIGN](https://www.figma.com/file/A5yDrFljI2VrNNV9tza0wp/7-Days-Mastering-Flutter-UI?type=design&node-id=0%3A1&mode=design&t=1JxtzvJlbitZBYoe-1)
